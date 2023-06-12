@@ -13,7 +13,54 @@
 
 ## 1) Brackets ##
 
-#### Workings ####
+Brackets are used to define the order of operations. 
+Following the BODMAS rule, words within the bracket are evaluated first.
+
+Example: $$5 * (2 + 4)=30$$ 
+
+
+Brackets are often used in mathematical expressions in general to signify grouping where appropriate to prevent ambiguities and increase clarity
+
+
+
+### Workings ###
+
+**Example-1**: **A Lengthy Simplification Problem**
+
+
+
+### Interesting Feature ###
+
+Before this update, we were not able to use negative integers for calculation. 
+It was only Whole numbers. But with the use of Brackets, we can do that. See the below examples.
+
+### Addition ###  
+
+<br>
+$$(-56)+ (-2)= -58$$
+
+
+### Subtraction ###
+
+<br> 
+
+$$(-56)-(-2)=-54$$
+
+
+
+### Multiplication ###
+ 
+ **Example-1**
+
+$$(-3)*(-4)=+12$$
+
+
+**Example-2**
+
+$$(-3)*(4)=(-12)**
+
+
+### Division ###
 
 
 ##  2) Sum ##

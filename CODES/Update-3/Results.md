@@ -53,6 +53,12 @@ It was only Whole numbers. But with the use of Brackets, we can do that. See the
 
 $$(-56)+(-2)=-58$$
 
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/ad9cfd68-8bf8-46f0-b931-f001b9c9a75c)
+
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/9c08e48d-2ce9-4d76-81cf-2b974fbec918)
+
+
 
 ### Subtraction ###
 
@@ -60,6 +66,10 @@ $$(-56)+(-2)=-58$$
 
 $$(-56)-(-2)=-54$$
 
+![Screenshot (649)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/e7bbc079-ba5b-4e21-81fa-914dd7f75e7e)
+
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/d75eefe2-554d-4440-a3dd-4a30a72ae830)
 
 
 ### Multiplication ###
@@ -68,10 +78,17 @@ $$(-56)-(-2)=-54$$
 
 $$(-3)*(-4)=+12$$
 
+![Screenshot (651)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/ee8f20e5-5a7f-423f-a0a7-6fda9ef0e297)
+
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/d2426374-5dbb-42b1-ac4a-48e28ef6cc89)
+
+
 
 **Example-2**
 
 $$(-3)*(4)=(-12)$$
+
 
 
 ### Division ###

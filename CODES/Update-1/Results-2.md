@@ -20,10 +20,19 @@ https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/cf76c
 ## Features ##
 
 
-### 1) Cube root Operator($\sqrt[3]{x}$) ###  
+### 1) Cube root Operator($\sqrt[3]$) ###  
 
 #### Usage ####
 
+**Step-1**: *Make input of the number you want to find cube root say $27$ .*
+
+![Screenshot (670)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/63537d22-f308-484d-8675-f6ad0af99145)
+
+
+**Step-2**: *Click the $\sqrt[3]$ option.*
+**Step-3**: *The answer will be displayed.*
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/cca30da9-d38e-45c7-8f08-39515375a203)
 
 
 ### 2) $e^{x}$ ###

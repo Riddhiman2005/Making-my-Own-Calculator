@@ -4,6 +4,9 @@
 
 ![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/4204eba1-239a-489d-a869-f3e9215abf88)
 
+## YouTube Link ##
+
+
 
 # Features Added #
 
@@ -15,7 +18,38 @@
 
 ##  2) Sum ##
 
+### Usage ###
+**Step-1**: *Input 2* <br>
+
+![Screenshot (630)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/62967730-897f-44cc-9748-f64a1f1e0d8e)
+
+
+**Step-2**: *Click Sum* <br>
+
+**Step-3**: *Answer will be displayed* <br>
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/7554bd62-b2e4-4c4f-a6ff-50008318023e)
+
+
 #### Workings ####
+
+**Example-1** : 
+<br>
+
+$$1+2+3=6$$
+
+![Screenshot (642)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/486b0381-e5b3-43ac-a2c1-7dace2970c73)
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/5f108978-dfbd-4c1a-b6e9-a87f0306c613)
+
+
+**Example-2**:  $$1+2+...+10=55$$
+
+
+![Screenshot (640)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/d3d28fa9-a179-4711-b02a-c0e7ef39fd44)
+
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/f5375e24-c92e-470e-8421-76563b3c8a84)
 
 
 ## 3) Sum^2 ##
@@ -25,7 +59,7 @@
 I'll tell you here how to use the key for calculation.
 Suppose you want to calculate sum of the squares of the natural nos upto n=2
 
-**Step-1**: *Input $2$* <br>
+**Step-1**: *Input 2* <br>
 
 ![Screenshot (630)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/62967730-897f-44cc-9748-f64a1f1e0d8e)
 
@@ -63,7 +97,7 @@ $$1^2+ 2^2+3^2+4^2+5^2= 1+4+9+16+25=55$$
 
 Same way as **Sum** and **Sum^2**
 
-**Step-1**: *Input $2$* <br>
+**Step-1**: *Input 2* <br>
 
 ![Screenshot (630)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/62967730-897f-44cc-9748-f64a1f1e0d8e)
 
@@ -77,6 +111,7 @@ Same way as **Sum** and **Sum^2**
 
 ### Workings ###
 
+We'll take a simple example and see if our calculator is working correctly. Sure to check the Video. All the examples discussed here are discussed in details in the video
 
 **Example-1**
 
@@ -88,10 +123,11 @@ $$1^3 + 2^3= 1+8=9$$
 
 $$1^3+ 2^3+3^3+4^3+5^3=1+8+27+64+125=225$$
 
+![Screenshot (636)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/7ea3d023-3084-4838-a9d8-e9ae7df0d489)
 
 
 ![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/b1c2ea81-6330-4710-81c9-d97e509487e6)
 
 
 
-## YouTube Link ##
+

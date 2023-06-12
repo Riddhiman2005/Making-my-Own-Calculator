@@ -8,17 +8,17 @@
 # Features Added #
 
 
-## Brackets ##
+## 1) Brackets ##
 
 #### Workings ####
 
 
-##  Sum ##
+##  2) Sum ##
 
 #### Workings ####
 
 
-## Sum^2 ##
+## 3) Sum^2 ##
 
 ### Usage ###
 
@@ -51,9 +51,41 @@ $$1^2+ 2^2+3^2+4^2+5^2= 1+4+9+16+25=55$$
 
 
 
-###  Sum^3 ###
+##  4) Sum^3 ##
 
-#### Workings ####
+### Usage ###
+
+Same way as **Sum** and **Sum^2**
+
+**Step-1**: *Input $2$* <br>
+
+![Screenshot (630)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/62967730-897f-44cc-9748-f64a1f1e0d8e)
+
+
+**Step-2**: *Click Sum^3* <br>
+
+**Step-3**: *Answer will be displayed* <br>
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/293464c7-be52-4757-87c6-6a1d90bb4644)
+
+
+
+### Workings ###
+
+
+**Example-1**
+
+$$1^3 + 2^3= 1+8=9$$
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/50679e24-c5b4-49bb-83a0-eed886d2f7ea)
+
+
+**Example-2**
+
+$$1^3+ 2^3+3^3+4^3+5^3=1+8+27+64+125=225$$
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/b1c2ea81-6330-4710-81c9-d97e509487e6)
+
 
 
 ## YouTube Link ##

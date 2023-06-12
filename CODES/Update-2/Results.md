@@ -8,6 +8,16 @@
 
 
 
+https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/b3885e11-942c-44d3-b324-88e18ed0eb96
+
+
+
+
+https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/b4bbe239-d1e8-4f70-ba01-2d485cbd1f3a
+
+
+
+
 # YouTube Link #
 
 
@@ -25,6 +35,7 @@ Calculates the inverse. Say x=2, so it will give you the decimal value of $\frac
 
 
 **Step-2**: Click the operator $x^{-1}$
+<br>
 **Step-3**: Value Displayed
 
 ![Screenshot (678)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/16f70f72-f81e-4f5c-9540-52d9911c68a1)
@@ -34,7 +45,18 @@ Calculates the inverse. Say x=2, so it will give you the decimal value of $\frac
 
 Calculates the ln value 
 
+Example
+
+**Step-1**: *Input the value say 2
+
 ![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/ac77ff1e-70b6-4813-ac97-d3984d662edf)
+
+**Step-2**: *Click the *ln* operator*
+<br>
+
+**Step-3**: *The value is Displayed*
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/a0b9431f-8e34-4477-b915-421d340705a9)
 
 
 
@@ -49,6 +71,8 @@ Calculate the power of 10
 ![Screenshot (681)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/b943a935-09db-4907-82b3-f79f4e101db3)
 
 **Step-2**: Click the operator $10^x$
+
+<br>
 **Step-3**: *Value Displayed*
 
 ![Screenshot (682)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/7695d349-5e6c-4caa-8662-9de8bdef7702)

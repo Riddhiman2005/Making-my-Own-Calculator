@@ -36,6 +36,13 @@ https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/cf76c
 
 
 ### 2) $e^{x}$ ###
+
+#### Usage ####
+
+**Step-1**: *Make input of the number(x) that means the power of the number, say x=0 .*
+
+**Step-2**: *Click the $e^{x}$ key.*
+**Step-3**: *The result will be displayed*
 ### 3) $\pi$   ###
 
 

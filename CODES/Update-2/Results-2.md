@@ -20,7 +20,7 @@ https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/b4bbe
 
 # YouTube Link #
 
-[Making my Own Calculator-III(Update-2)]((https://youtu.be/YLFqWLoJr84))
+[Making my Own Calculator-III(Update-2)](https://youtu.be/YLFqWLoJr84)
 
 <br>
 

@@ -66,8 +66,7 @@ Same way as **Sum** and **Sum^2**
 
 **Step-3**: *Answer will be displayed* <br>
 
-![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/293464c7-be52-4757-87c6-6a1d90bb4644)
-
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/02921558-81ae-4d7f-9d6d-933123d8787c)
 
 
 ### Workings ###
@@ -77,8 +76,7 @@ Same way as **Sum** and **Sum^2**
 
 $$1^3 + 2^3= 1+8=9$$
 
-![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/50679e24-c5b4-49bb-83a0-eed886d2f7ea)
-
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/00e5b8df-5860-4363-970f-a1d2a0e8ed3e)
 
 **Example-2**
 

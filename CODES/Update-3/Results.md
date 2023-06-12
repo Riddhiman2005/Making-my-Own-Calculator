@@ -16,7 +16,9 @@
 Brackets are used to define the order of operations. 
 Following the BODMAS rule, words within the bracket are evaluated first.
 
-Example: $$5 * (2 + 4)=30$$ 
+Example: 
+
+$5*(2 + 4)=30$ 
 
 
 Brackets are often used in mathematical expressions in general to signify grouping where appropriate to prevent ambiguities and increase clarity
@@ -37,7 +39,8 @@ It was only Whole numbers. But with the use of Brackets, we can do that. See the
 ### Addition ###  
 
 <br>
-$$(-56)+ (-2)= -58$$
+
+$$(-56)+(-2)=-58$$
 
 
 ### Subtraction ###
@@ -57,7 +60,7 @@ $$(-3)*(-4)=+12$$
 
 **Example-2**
 
-$$(-3)*(4)=(-12)**
+$$(-3)*(4)=(-12)$$
 
 
 ### Division ###

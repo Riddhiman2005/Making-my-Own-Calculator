@@ -110,6 +110,12 @@ $$(-8)/(-4)= 2$$
 
 $$(-16)/4= (-4)$$
 
+![Screenshot (657)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/d946a176-b306-4e9e-bd78-3f61aa5d2251)
+
+![Screenshot (658)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/c66883ac-be46-463f-a55f-c15fc89eccd2)
+
+
+
 
 ##  2) Sum ##
 

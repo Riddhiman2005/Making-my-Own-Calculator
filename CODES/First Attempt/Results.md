@@ -43,6 +43,8 @@ $$3! = 1 \cdot 2 \cdot 3 = 6$$
 
 ## Exponents (^) ##
 
+### Usage ###
+
 **Step-1**: Input the Base say 3
 
 ![Screenshot (689)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/075eaea4-6a08-41c9-9adf-6ccf612fc3c5)
@@ -68,4 +70,18 @@ $$3! = 1 \cdot 2 \cdot 3 = 6$$
 
 
 ## Logarithm ##
+
+### Usage ###
+
+**Step-1**: Enter the Number, here 2
+
+![Screenshot (694)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/4c4e726c-efd1-43a3-9076-8d22ad4a3b81)
+
+**Step-2**: Click log operator
+
+**Step-3**: Result Displayed
+
+![Screenshot (695)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/e7784176-72b6-4268-93c7-4329e435b348)
+
+
 ## Backspace ##

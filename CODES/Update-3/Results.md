@@ -1,5 +1,5 @@
 
-# Calculator After 3rd Update #
+# 3rd Update #
 
 
 ![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/4204eba1-239a-489d-a869-f3e9215abf88)

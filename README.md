@@ -22,13 +22,16 @@ As the saying goes, "Necessity is the mother of invention," and this project exe
 8) $10^x$ Values
 9) $e^x$ values
 10) $x^{-1}$ values
-11) $\ pi$
+11) $\pi$ : Puts the value of 3.14
 12) Calculate Sum of n natural numbers
 13) Calculate Sum of squares of n natural numbers
 14) Calculate Sum of Cubes of n natural numbers
 
 
 
+## YouTube Playlist ##
+
+[Making my Own Calculator](https://www.youtube.com/playlist?list=PL8UgiekZNpwILabb9GNr4tYjmvY_dSjrv)
 
 ## Language ##
 
@@ -39,6 +42,8 @@ As the saying goes, "Necessity is the mother of invention," and this project exe
 
 ## Contribution ##
 
+Contributions to this project are coordially welcomed! If you have ideas for improving the code, additional 
+resources to add, or insights to share, please open an issue or submit a pull request.
 
 
 
@@ -49,6 +54,3 @@ This repository is released under **MIT license**.
 
 
 
-## YouTube Playlist ##
-
-[Making my Own Calculator](https://www.youtube.com/playlist?list=PL8UgiekZNpwILabb9GNr4tYjmvY_dSjrv)

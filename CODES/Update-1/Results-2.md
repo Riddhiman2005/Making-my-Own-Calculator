@@ -21,6 +21,11 @@ https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/cf76c
 
 
 ### 1) Cube root Operator($\sqrt[3]{x}$) ###  
+
+#### Usage ####
+
+
+
 ### 2) $e^{x}$ ###
 ### 3) $\pi$   ###
 

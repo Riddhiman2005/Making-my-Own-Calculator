@@ -45,10 +45,16 @@ We'll take a simple example and see if our calculator is working correctly. Sure
 
 $$1^2 + 2^2= 1+4=5$$
 
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/b2ebd486-19f1-4f87-b8e7-1d1e1abc9093)
+
+
 **Example-2**
 
 $$1^2+ 2^2+3^2+4^2+5^2= 1+4+9+16+25=55$$
 
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/ff4100cf-dded-42f3-b26f-72c4182338b1)
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/d0641a19-529a-45fb-b5a5-697cbca5c4cb)
 
 
 ##  4) Sum^3 ##
@@ -81,6 +87,8 @@ $$1^3 + 2^3= 1+8=9$$
 **Example-2**
 
 $$1^3+ 2^3+3^3+4^3+5^3=1+8+27+64+125=225$$
+
+
 
 ![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/b1c2ea81-6330-4710-81c9-d97e509487e6)
 

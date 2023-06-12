@@ -30,6 +30,17 @@ Brackets are often used in mathematical expressions in general to signify groupi
 **Example-1**: **A Lengthy Simplification Problem**
 
 
+$$(18 – (6 – (4 – (8 – (6 + 3))))*5)+20= 33$$
+
+Let's Check Now,
+
+![Screenshot (644)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/8f87789b-4ab0-4874-8bb1-062792d37abf)
+
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/4717bb03-4ffb-45b9-a033-389eb190d519)
+
+
+
 
 ### Interesting Feature ###
 

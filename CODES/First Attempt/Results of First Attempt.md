@@ -14,10 +14,10 @@
 
 # Features #
 
-## 1) Basic Operations ##
+## 1) Basic Things ##
 
-All the basic operations are shown in the video in very details. Refer to it.
-
+All the basic operations are shown in the video in very detail. Refer to it.
+The decimal is also working perfectly.
 
 ## 2) Factorial (!) ##
 
@@ -85,3 +85,5 @@ $$3! = 1 \cdot 2 \cdot 3 = 6$$
 
 
 ## Backspace ##
+
+The use of Backspace operators has been shown in the video. Refer it.

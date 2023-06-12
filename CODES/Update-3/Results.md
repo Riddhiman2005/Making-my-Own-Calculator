@@ -89,9 +89,26 @@ $$(-3)*(-4)=+12$$
 
 $$(-3)*(4)=(-12)$$
 
+![Screenshot (653)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/25b8a53d-13c7-46c6-8160-46ecb5a55cee)
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/38adb6a8-ce59-4431-b53d-cea751bc9d1c)
 
 
 ### Division ###
+
+
+**Example-1**
+
+$$(-8)/(-4)= 2$$
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/4da34315-4d27-428b-8706-6c256aa9e0dc)
+
+![Screenshot (655)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/1e780343-7de7-444a-93cf-4e34c4f4c47c)
+
+
+**Example-2**
+
+$$(-16)/4= (-4)$$
 
 
 ##  2) Sum ##

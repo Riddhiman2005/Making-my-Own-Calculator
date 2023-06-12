@@ -8,7 +8,7 @@ I embarked on an ambitious project to create my very own mechanical calculator. 
 ven simple calculations required an immense amount of effort. 
 Fast forward to the present day, my scientific calculator stopped functioning, leaving me without a reliable tool for my mathematical pursuits. The laptop and mobile calculators lacked the sophistication I craved. It was at this moment I made a bold decision—to develop my own calculator using coding.
 
-As the saying goes, "Necessity is the mother of invention," and this project exemplified the very essence of that sentiment. Motivated by the need for a more advanced and personalized calculator, I set out on a journey to create a digital masterpiece. With coding as my tool, I knew I could fashion a calculator that would surpass any I had previously encountered.
+As the saying goes, "**Necessity is the mother of invention**" and this project exemplified the very essence of that sentiment. Motivated by the need for a more advanced and personalized calculator, I set out on a journey to create a digital masterpiece. With coding as my tool, I knew I could fashion a calculator that would surpass any I had previously encountered.
 
 ## FEATURES OF THE CALCULATOR ##
 
@@ -23,9 +23,9 @@ As the saying goes, "Necessity is the mother of invention," and this project exe
 9) $e^x$ values
 10) $x^{-1}$ values
 11) $\pi$ : Puts the value of 3.14
-12) Calculate Sum of n natural numbers
-13) Calculate Sum of squares of n natural numbers
-14) Calculate Sum of Cubes of n natural numbers
+12) Calculate the Sum of n natural numbers
+13) Calculate the Sum of squares of n natural numbers
+14) Calculate the Sum of Cubes of n natural numbers
 
 
 

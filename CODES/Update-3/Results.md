@@ -21,6 +21,19 @@
 
 #### Workings ####
 
+We'll take a simple example and see if our calculator is working correctly. Sure to check the Video. All the examples discussed here are discussed in details.
+
+**Example-1**:
+
+
+$$1^2 + 2^2= 1+4=5$$
+
+**Example-2**
+
+$$1^2+ 2^2+3^2+4^2+5^2= 1+4+9+16+25=55$$
+
+
+
 ###  Sum^3 ###
 
 #### Workings ####

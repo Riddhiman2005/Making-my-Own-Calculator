@@ -1,23 +1,40 @@
 
-## Calculator After 3rd Update ##
+# Calculator After 3rd Update #
 
 
 ![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/4204eba1-239a-489d-a869-f3e9215abf88)
 
 
-## Features Added ###
+# Features Added #
 
 
-### Brackets ###
+## Brackets ##
+
+#### Workings ####
+
+
+##  Sum ##
 
 #### Workings ####
 
 
-###  Sum ###
+## Sum^2 ##
 
-#### Workings ####
+### Usage ###
 
-### Sum^2 ###
+I'll tell you here how to use the key for calculation.
+Suppose you want to calculate sum of the squares of the natural nos upto n=2
+
+**Step-1**: *Input $2$* <br>
+
+![Screenshot (630)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/62967730-897f-44cc-9748-f64a1f1e0d8e)
+
+
+**Step-2**: *Click Sum^2* <br>
+
+**Step-3**: *Answer will be displayed* <br>
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/b2ebd486-19f1-4f87-b8e7-1d1e1abc9093)
 
 #### Workings ####
 

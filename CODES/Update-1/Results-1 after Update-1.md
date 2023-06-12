@@ -29,7 +29,7 @@ https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/cf76c
 ![Screenshot (670)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/63537d22-f308-484d-8675-f6ad0af99145)
 
 
-**Step-2**: *Click the $\sqrt[3]$ option.*
+**Step-2**: *Click the $\sqrt[3]$ option.* <br>
 **Step-3**: *The answer will be displayed.*
 
 ![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/cca30da9-d38e-45c7-8f08-39515375a203)
@@ -41,8 +41,16 @@ https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/cf76c
 
 **Step-1**: *Make input of the number(x) that means the power of the number, say x=0 .*
 
-**Step-2**: *Click the $e^{x}$ key.*
+![Screenshot (672)](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/19d672cb-a15f-47a7-b579-81aafc0ffacb)
+
+
+**Step-2**: *Click the $e^{x}$ key.* <br>
+
 **Step-3**: *The result will be displayed*
+
+![image](https://github.com/Riddhiman2005/Making-my-Own-Calculator/assets/130882317/92d58bb1-5953-4a51-95ca-71ed3eb31dbb)
+
+
 ### 3) $\pi$   ###
 
 

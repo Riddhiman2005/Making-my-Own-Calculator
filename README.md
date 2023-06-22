@@ -26,6 +26,10 @@ As the saying goes, "**Necessity is the mother of invention**" and this project 
 12) Calculate the Sum of n natural numbers
 13) Calculate the Sum of squares of n natural numbers
 14) Calculate the Sum of Cubes of n natural numbers
+15) Sum!: Calculate the sum of factorials of n natural numbers
+16) Sine Functions
+17) Cosine Functions
+18) Tangent
 
 
 
